@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Hydrological Modelling And Landegradation
 - 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...Drought and Floood Predication
-- 📫 How to reach me ...sgivtejlad144@gmail.com
+- 📫 How to reach me ...shivtejlad144@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
